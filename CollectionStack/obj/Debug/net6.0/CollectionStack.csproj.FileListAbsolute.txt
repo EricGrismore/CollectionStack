@@ -1,0 +1,15 @@
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\bin\Debug\net6.0\CollectionStack.exe
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\bin\Debug\net6.0\CollectionStack.deps.json
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\bin\Debug\net6.0\CollectionStack.runtimeconfig.json
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\bin\Debug\net6.0\CollectionStack.dll
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\bin\Debug\net6.0\CollectionStack.pdb
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.csproj.AssemblyReference.cache
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.AssemblyInfoInputs.cache
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.AssemblyInfo.cs
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.csproj.CoreCompileInputs.cache
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.dll
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\refint\CollectionStack.dll
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.pdb
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\CollectionStack.genruntimeconfig.cache
+C:\Microsoft Press\VCSBS\Chapter 25\CollectionStack\CollectionStack\obj\Debug\net6.0\ref\CollectionStack.dll
